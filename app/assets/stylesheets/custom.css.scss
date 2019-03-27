@@ -15,3 +15,47 @@ $navbar-default-bg: #800000;
 .center {
   text-align: center;
 }
+
+.title {
+  text-transform: uppercase;
+  font-weight: bold;
+  letter-spacing: -.075em;
+  margin-bottom: 2em;
+  text-align: center;
+}
+
+.jumbotron {
+  background-image: url('Alpha_Esportslogo_square.png');
+  background-size: cover;
+  height: 75em;
+}
+
+.btn-xlarge {
+  font-size: 1.5em;
+  background-color: maroon;
+}
+
+footer {
+  margin-top: 3em;
+  padding-top: .5em;
+  border-top: .1em solid #eaeaea;
+  color: #777;
+}
+
+footer a:hover {
+  color: #222;
+}
+
+footer small {
+  float: left;
+}
+
+footer ul {
+  float: right;
+  list-style: none;
+}
+
+footer ul li{
+  float: left;
+  margin-left: 1em;
+}
